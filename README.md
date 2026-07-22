@@ -7,7 +7,9 @@ This repository provides templates and examples for creating custom wrap designs
 1. **Download** the template for your specific vehicle model (see links below)
 2. **Edit** the template with your custom design (fill in the white areas)
 3. **Save** your design as a PNG file (512x512 to 1024x1024 pixels, max 1 MB)
-4. **Load** your wraps onto a USB drive in a folder called `Wraps`
+4. **Transfer** your wraps to your vehicle using the mobile app or a USB drive:
+    * **Mobile app** (requires v4.59.0 or later): Creations → Wrap → Upload
+    * **USB drive**: place your wraps in a folder called `Wraps`
 5. **Apply** in your Tesla: Toybox → Paint Shop → Wraps tab
 
 ## Select Your Vehicle
@@ -81,7 +83,17 @@ Choose your vehicle to download the template and view example wraps:
 * **File Size**: Images must be no larger than 1 MB.
 * **File Name**: Use alphanumeric characters, underscores, dashes, and spaces only (max 30 characters).
 * **File Format**: Images must be in PNG format.
-* **File Count**: Up to 10 images can be used at a time.
+* **File Count**: Up to 10 from the mobile app and up to 10 from a USB drive
+
+### Applying Wraps in Your Vehicle
+Once transferred, your wraps will appear in Toybox → Paint Shop → Wraps tab:
+
+<p>
+<img src="images/paint-shop-wraps-ct.png" width="400"/>
+<br/>
+<br/>
+<img src="images/paint-shop-wraps-m3.png" width="400"/>
+</p>
 
 ### USB Drive Setup
 
@@ -96,19 +108,9 @@ Choose your vehicle to download the template and view example wraps:
 3. Place your PNG files inside the `Wraps` folder
 4. Ensure the drive doesn't contain map or firmware updates
 
-### Applying Wraps in Your Vehicle
-Once loaded, wraps will appear in Toybox → Paint Shop → Wraps tab:
+### USB Drive Troubleshooting
 
-<p>
-<img src="images/paint-shop-wraps-ct.png" width="400"/>
-<br/>
-<br/>
-<img src="images/paint-shop-wraps-m3.png" width="400"/>
-</p>
-
-### Troubleshooting
-
-If you encounter any issues with loading or applying wrap images, please check the following:
+If you encounter any issues loading wraps from a USB drive, please check the following:
 
 * Ensure that the USB drive is formatted correctly and does not contain any map update or firmware update files.
 * Verify that the wrap images meet the requirements listed above.

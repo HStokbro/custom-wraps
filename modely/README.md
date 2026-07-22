@@ -1,6 +1,6 @@
 # Model Y Custom Wraps
 
-Download the template below and customize it with your own design. For complete setup instructions and requirements, see the [main page](../).
+Download the template below and customize it with your own design. For complete setup instructions and requirements, see the [main page](https://github.com/teslamotors/custom-wraps).
 
 ## Template
 
@@ -35,4 +35,4 @@ Download the template below and customize it with your own design. For complete 
 
 ---
 
-[← Back to main page](../)
+[← Back to main page](https://github.com/teslamotors/custom-wraps)
